@@ -1,5 +1,5 @@
 ## Olá, eu sou Eduardo Bianchini
-- 👨🏻‍💻 Hoje sou Estágiario de TI na FAPES
+- 👨🏻‍💻 Sou Estágiario de TI na FAPES
 - 💻 Cursando Técnico em Informática
 <div style="display: inline_block"><br>
   <img align="center" alt="Bianchini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

@@ -1,6 +1,6 @@
 <h2 align="left">Eduardo Bianchini</h2>
 
-<p>Sou Eduardo, tenho 18 anos e sou natural do Espírito Santo, Brasil. Atualmente, estou cursando Técnico em Informática no CEET Vasco Coutinho e graduando em Sistemas de Informação na FAESA. Apaixonado por tecnologia, dedico-me ao aprendizado contínuo em áreas como desenvolvimento de software, programação e inovação. Estou comprometido em explorar o universo da tecnologia da informação, aprimorando minhas habilidades técnicas e buscando contribuir para projetos inovadores que impactem positivamente o meio digital.</p>
+<p>Sou Eduardo, tenho 19 anos e sou natural do Espírito Santo, Brasil. Atualmente, estou graduando em Sistemas de Informação na FAESA. Apaixonado por tecnologia, dedico-me ao aprendizado contínuo em áreas como desenvolvimento de software, programação e inovação. Estou comprometido em explorar o universo da tecnologia da informação, aprimorando minhas habilidades técnicas e buscando contribuir para projetos inovadores que impactem positivamente o meio digital.</p>
 
 <br>
 
